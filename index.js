@@ -20,6 +20,6 @@ function sayHiToGrandma(str) {
 } else if (str === str.toUpperCase()) {
     return "YES INDEED!"
 } else if (str === "I love you, Grandma.") {
-    return "I love you too."
+    return "I love you, too."
 }
 }
