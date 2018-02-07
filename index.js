@@ -7,6 +7,6 @@ function whisper(str) {
 }
 
 function logShout(str) {
-  shout = str.toUpperCase;
+  var shout = str.toUpperCase;
   console.log(`${shout}`)
 }
